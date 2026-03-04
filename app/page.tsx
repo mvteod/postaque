@@ -24,7 +24,7 @@ const integrantes = [
   {
     nombre: "lucho",
     foto: "/estrella.jpg",
-    instagram: "https://instagram.com/estrellanegra",
+    instagram: "https://instagram.com/eestrellanegra",
     descripcion: "Capturas de ig, sensaciones, momentos y fernandito."
   },
   {
