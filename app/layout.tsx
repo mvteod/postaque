@@ -5,13 +5,13 @@ import { Inter } from 'next/font/google'
 const inter = Inter({ subsets: ['latin'] })
 
 export const metadata: Metadata = {
-  title: 'RULETA POSTAQUERA',
-  description: 'Probá tu suerte en la ruleta oficial de la Posta.',
+  title: 'POSTA QUE',
+  description: 'Probá tu suerte en la ruleta oficial del Posta QUe.',
   openGraph: {
-    title: 'RULETA POSTAQUERA',
-    description: '¿Quién sale hoy? Girala y fijate.',
+    title: 'RULETA POSTA QUE',
+    description: '¿Quién te acosa hoy? Girala y fijate.',
     url: 'https://postaque.vercel.app', // Asegurate que este sea tu link real
-    siteName: 'Postaquera',
+    siteName: 'Posta Que',
     images: [
       {
         url: '/postaque.jpg', // Vercel la busca en la carpeta public automáticamente
